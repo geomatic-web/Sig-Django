@@ -1,4 +1,4 @@
-# SIG Web Cadastral avec Django & GeoDjango
+# SIG Web Cadastral avec Django & GeoDjango (lien de la playliste youtube: https://youtube.com/playlist?list=PL2UHzWnHK66R6A8-i1IAMN6APx6YDgoTa&si=8JfnZcKlRDjUL3Kj)
 
 Projet de **SIG Web cadastral** développé avec **Django, GeoDjango, PostGIS et Leaflet**.  
 Il permet la **visualisation des parcelles**, la **recherche**, le **filtrage** et la **gestion via l’admin Django**.
